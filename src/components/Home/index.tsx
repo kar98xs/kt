@@ -40,8 +40,8 @@ export const HomeHero: React.FC = () => {
           <ButtonGroup>
             <ButtonPrimary 
               as="a" 
-              href="/cert/Resume.pdf" 
-              download="Kartik_Tripathi_Resume.pdf" 
+              href="https://drive.google.com/file/d/1cX0-d0HSy1u41jB_6bvTeZEktClTdc70/view" 
+              
               target="_blank"
             >
               <FiDownload /> Download CV
@@ -78,3 +78,4 @@ export const HomeHero: React.FC = () => {
     </HomeContainer>
   );
 };
+
