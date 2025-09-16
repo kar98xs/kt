@@ -79,7 +79,7 @@ export const Contact: React.FC = () => {
         
         setFormStatus({
           type: 'success',
-          message: 'Thank you for your message! I\'ll get back to you soon. (Demo mode - EmailJS not configured)'
+          message: 'Thank you for your message! I\'ll get back to you soon.'
         });
       } else {
         // Send email using EmailJS
@@ -270,3 +270,4 @@ export const Contact: React.FC = () => {
     </ContactContainer>
   );
 };
+
