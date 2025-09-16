@@ -33,7 +33,7 @@ export const Education: React.FC = () => {
       id: 2,
       institution: 'R.K Talreja College ',
       degree: 'Higher Secondary School',
-      duration: '2018 - 2020',
+      duration: '2020',
       location: 'Thane, Maharashtra, India',
       description: 'A motivated and disciplined Passout of RKT College with a proven aptitude for the analytical and problem-solving demands of the Science stream.',
       achievements: [
@@ -107,3 +107,4 @@ export const Education: React.FC = () => {
     </EducationContainer>
   );
 };
+
