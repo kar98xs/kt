@@ -14,7 +14,7 @@ import {
 
 export const About: React.FC = () => {
   const stats = [
-    { number: '20+', label: 'Projects Completed' },
+    { number: '10+', label: 'Projects Completed' },
     { number: '1+', label: 'Years Experience' },
     { number: '10+', label: 'Technologies' },
     { number: '100%', label: 'Client Satisfaction' }
@@ -88,3 +88,4 @@ export const About: React.FC = () => {
     </AboutContainer>
   );
 };
+
